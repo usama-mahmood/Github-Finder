@@ -1,4 +1,74 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+# Github Finder - Using Class Based Components
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/usama-mahmood/Github-Finder">
+    <img src="https://user-images.githubusercontent.com/10979882/129904986-b454121e-62b1-4073-8fbd-e9ceafa352cc.png" alt="Logo" width="200"  >
+  </a>
+   <p align="center">
+    Github Finder is React based Full Stack Web Application, which provides searching for GitHub users using Github API's and navigate to respective profiles.
+    <br />
+      <br />
+    <a href="#getting-started-with-create-react-app"><strong>Getting Started with Create React App</strong></a>
+    <br />
+    <a href="#view-demo">View Demo</a>
+    ·
+    <a href="https://github.com/usama-mahmood/Github-Finder">Report Bug</a>
+    ·
+    <a href="https://github.com/usama-mahmood/Github-Finder/issues">Request Feature</a>
+  </p>
+</p>
+
+## Features
+* Class Based Components, State & Props
+  * Components, Props & PropTypes
+  * Getting Started With Component State
+  * Lists & Passing State With Props
+  * Stateless Functional Components
+  * HTTP Requests & Updating State
+  * Spinner Component & Refactoring
+  * Environment Variables
+
+
+* Events, Passing Props, React Router & More
+  * Events & Search Component
+  * Passing Props Up & Search
+  * Clear Users From State
+  * Alert State & Component
+  * React Router Setup
+  * Single User Component & Data
+  * User Component UI & Layout
+  * Repos & RepoItem Component & Data
+<br>
+
+## View Demo 
+  https://user-images.githubusercontent.com/10979882/129905788-7d48ca5c-d6bf-4b53-906d-c75424b461a1.mp4
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]:https://img.shields.io/github/contributors/usama-mahmood/Dental-Valet.svg?style=for-the-badge
+[contributors-url]: https://github.com/usama-mahmood/Dental-Valet/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/usama-mahmood/Dental-Valet.svg?style=for-the-badge
+[forks-url]: https://github.com/usama-mahmood/Dental-Valet/network/members
+[stars-shield]: https://img.shields.io/github/stars/usama-mahmood/Dental-Valet.svg?style=for-the-badge
+[stars-url]: https://github.com/usama-mahmood/Dental-Valet/stargazers
+[issues-shield]: https://img.shields.io/github/issues/usama-mahmood/Dental-Valet.svg?style=for-the-badge
+[issues-url]: https://github.com/usama-mahmood/Dental-Valet/issues
+[license-shield]: https://img.shields.io/github/license/usama-mahmood/Dental-Valet.svg?style=for-the-badge
+[license-url]: https://github.com/usama-mahmood/Dental-Valet/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/usama-mahmood-4140b42b/
+[product-screenshot]: images/screenshot.png
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
