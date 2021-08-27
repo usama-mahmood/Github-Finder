@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Github Finder - Using Class Based Components
+# Github Finder - Using Hooks & Context
 
 <!-- PROJECT LOGO -->
 <br />
