@@ -19,11 +19,13 @@
       <br />
     <a href="#getting-started-with-create-react-app"><strong>Getting Started with Create React App</strong></a>
     <br />
-    <a href="#view-demo">View Demo</a>
+    <a href="#view-demo">Vedio Demo</a>
     ·
     <a href="https://github.com/usama-mahmood/Github-Finder">Report Bug</a>
     ·
     <a href="https://github.com/usama-mahmood/Github-Finder/issues">Request Feature</a>
+     .
+     <a href="https://usama-github-finder.netlify.app/">Live Demo</a>
   </p>
 </p>
 
