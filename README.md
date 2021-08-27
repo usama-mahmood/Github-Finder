@@ -47,6 +47,12 @@
   * Single User Component & Data
   * User Component UI & Layout
   * Repos & RepoItem Component & Data
+* Refactoring To Hooks & Context
+  * Search Class to Function With useState Hook
+  * User Class to Function With useEffect Hook
+  * Implementing Context
+  * Create Reducer & Actions
+  * Moving User State, Repos State To Context
 <br>
 
 ## View Demo 
